@@ -6,3 +6,5 @@ y=$2
 sum=$(( $x + $y ))
 
 echo "Addition of $x and $y is:" $sum
+
+echo "Thank you"
